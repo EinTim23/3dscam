@@ -4,39 +4,24 @@ So I was using droidcam yesterday and I wondered if the 3ds can achieve the same
 
 #### If you decide to improve this for some reason please contact me im interested in seeing it
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 This code also contains a memory leak because i never free the old directx 11 texture before replacing the frame :hehe:
